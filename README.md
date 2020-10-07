@@ -1,4 +1,4 @@
-# <img src="img/um.png" width="17%" style="margin:auto;display:block;"/> Conception et Programmation Objet Avancées 
+# <img src="img/um.jpg" width="17%" style="margin:auto;display:block;"/> Conception et Programmation Objet Avancées 
 ### IUT Montpellier-Sète – Département Informatique
 * **Cours:** [HMIN330M](https://formations.umontpellier.fr/fr/formations/sciences-technologies-sante-STS/master-XB/master-informatique-program-fruai0342321nprme154/informatique-theorique-mit-subprogram-pr479/raisonnement-par-contraintes-HMIN330M.html) 
 * [Email](mailto:nadjib.lazaar@umontpellier.fr).
