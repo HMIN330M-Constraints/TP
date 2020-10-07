@@ -13,5 +13,5 @@
  
 ## Documentations
 
-- Documentation Choco
-- Documentation Git
+- [Documentation Choco](docs/choco-doc.pdf)
+- [Documentation Git](docs/git-doc.pdf)
