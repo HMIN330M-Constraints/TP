@@ -4,10 +4,12 @@
 * [Email](mailto:nadjib.lazaar@umontpellier.fr).
 
 
-## TP1 - Modélisation CP sous Choco
+## TP - Modélisation PPC sous Choco
 
 
 - Le [StudentPack](https://education.github.com/pack) de GitHub vous permet d'avoir une licence gratuite pour plusieurs outils payants et la possibilité d'avoir des **projets privés** sur GitHub.
+
+- [Fiche TP](TP.pdf)
 - Le lien **GitHub Classroom** vous permet de créer un fork du projet et d'affecter automatiquement votre projet à l'organisation * HMIN330M-Constraints* :
 
 XXX
