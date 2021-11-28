@@ -17,3 +17,12 @@ XXX
 
 - [Documentation Choco](https://choco-solver.org/docs/)
 - [Documentation Git](docs/git-documentation.pdf)
+
+
+-------------
+Partie étudiants :
+
+équipe :
+- étudiant1
+- étudiant2
+- ...
