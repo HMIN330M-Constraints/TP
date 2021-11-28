@@ -19,7 +19,7 @@ public class Sudoku {
 	static int n;
 	static int s;
 	private static int instance;
-	private static long timeout = 3600000; // one hour
+	private static long timeout = 300000; // five minutes
 
 	IntVar[][] rows, cols, shapes;
 
@@ -75,7 +75,7 @@ public class Sudoku {
 		shapes = new IntVar[n][n];
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < n; j++) {
-				rows[i][j] = model.intVar("c_" + i + "_" + j, 1, n, false);
+				rows[i][j] = model.intVar("c_" + i + "_" + j, 1, n*n, false);
 				cols[j][i] = rows[i][j];
 			}
 		}
@@ -96,7 +96,6 @@ public class Sudoku {
 			System.out.println(i);
 			model.allDifferent(rows[i], "AC").post();
 			model.allDifferent(cols[i], "AC").post();
-			model.allDifferent(shapes[i], "AC").post();
 		}
 
 	}
