@@ -12,7 +12,9 @@
 - [Fiche TP](TP.pdf)
 - Le lien **GitHub Classroom** vous permet de créer un fork du projet et d'affecter automatiquement votre projet à l'organisation * HMIN330M-Constraints* :
 
-XXX
+https://classroom.github.com/a/Wbpdiori
+
+
 ## Documentations
 
 - [Documentation Choco](https://choco-solver.org/docs/)
