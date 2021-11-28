@@ -3,7 +3,7 @@ package fr.univ_montpellier.fsd.sudoku.imp;
 import java.time.Duration;
 import java.time.Instant;
 
-public class SudokuSol {
+public class Sudoku {
 
 	int n;
 	int s;
@@ -15,7 +15,7 @@ public class SudokuSol {
 	 * 
 	 */
 
-	public SudokuSol(int n) {
+	public Sudoku(int n) {
 		this.n = n;
 		this.s = (int) Math.sqrt(n);
 		this.grid = new int[n][n];
@@ -127,7 +127,7 @@ public class SudokuSol {
 
 		Instant start = Instant.now();
 
-		System.out.println(new SudokuSol(9).findSolution(0, 0) + "\n #recursive_calls=" + counter);
+		System.out.println(new Sudoku(9).findSolution(0, 0) + "\n #recursive_calls=" + counter);
 
 		Instant end = Instant.now();
 
